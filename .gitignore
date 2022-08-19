@@ -2,4 +2,5 @@
 build/**
 dist/**
 .next/**
+node_modules
 webpack/node_modules/**
